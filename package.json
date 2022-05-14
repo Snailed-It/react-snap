@@ -4,8 +4,9 @@
   "description": "Zero-configuration framework-agnostic static prerendering for SPAs",
   "main": "index.js",
   "author": "stereobooster",
+  "contributors": ["Snailed It Development Ltd"],
   "license": "MIT",
-  "repository": "stereobooster/react-snap",
+  "repository": "github:Snailed-It/react-snap",
   "engines": {
     "node": ">= 8.6.0"
   },
